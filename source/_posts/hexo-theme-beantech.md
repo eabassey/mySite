@@ -1,17 +1,17 @@
 ---
-title: "[Hexo] Theme BeanTech"
+title: "Understanding RxJS Operators(bindCallback and bindNodeCallback)"
 catalog: true
-date: 2017-03-18 10:51:24
-subtitle: "This is hexo theme Demo."
+date: 2017-07-18 10:51:24
+subtitle: "bindCallback and bindNodeCallback explained in layman terms"
 header-img: "Demo.png"
 tags:
-- Hexo
-- Blog
+- RxJS
+- Javascript
 catagories:
-- Hexo
+- Javascript
 ---
 > Ported Theme of [Hux Blog](https://github.com/Huxpro/huxpro.github.io), Thank [Huxpro](https://github.com/Huxpro) for designing such a flawless theme.
-> 
+>
 > This BeanTech theme created by [YuHsuan](http://beantech.org) modified from the original Porter [Kaijun](http://kaijun.rocks/hexo-theme-huxblog/)
 
 # [Live Demo](http://beantech.org)
@@ -117,7 +117,7 @@ hexo server # run hexo in local environment
 hexo deploy # hexo will push the static files automatically into the specific branch(gh-pages) of your repo!
 ```
 
-# Have fun ^_^ 
+# Have fun ^_^
 ---
 <!-- Place this tag in your head or just before your close body tag. -->
 <script async defer src="https://buttons.github.io/buttons.js"></script>
