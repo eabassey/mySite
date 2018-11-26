@@ -4,8 +4,7 @@ title: "About"
 date: 2016-04-21 04:48:33
 description: "Wish for the Best, Prepare for the Worst"
 header-img: "img/header_img/Iron-Man-3.jpg"
-comments: true
+# comments: true
 ---
 
-> 光有好奇心而不去實踐，等於自願放棄成功機會
-> 別為自己畫地自限，Just Do It！！
+I am part of a bigger movement with you to solving human problems by crafting sofware that many others use everyday. Hi there, friend. Let's link up.
