@@ -1,7 +1,7 @@
 ---
 title: "Understanding Observables And Iterables"
 catalog: true
-date: 2017-08-12 02:31:26
+date: 2018-08-12 02:31:26
 subtitle: "Two very important data structures explained in layman terms"
 header-img: "Demo.png"
 tags:
